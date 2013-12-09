@@ -1,7 +1,7 @@
 #M. Lippmann
 #A Conway's Game of Life ASCII Animation running on Ruby 1.9.2
 
-#load 'life.rb'
+#Run with "load 'life.rb'" at the irb prompt.
 
 def test_smoke_test
   starting_board = [[0,1,0,0,0],
